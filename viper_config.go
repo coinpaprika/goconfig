@@ -1,4 +1,4 @@
-package cpcfg
+package goconfig
 
 import (
 	"fmt"

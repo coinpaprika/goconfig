@@ -1,4 +1,4 @@
-package cpcfg
+package goconfig
 
 type Config interface {
 	GetInt(key string) int

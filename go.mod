@@ -1,4 +1,4 @@
-module github.com/coinpaprika/cpcfg
+module github.com/coinpaprika/goconfig
 
 go 1.17
 
